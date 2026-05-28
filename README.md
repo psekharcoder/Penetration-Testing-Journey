@@ -1,7 +1,7 @@
 # 🔐 Penetration Testing Journey
 
 ## 🚀 About
-This repository documents my hands-on learning and practical exploration in the field of cybersecurity. It reflects my continuous efforts to understand how systems can be analyzed, tested, and improved from a security perspective.
+This repository documents my hands-on learning and practical exploration in the field of cybersecurity. It reflects my continuous efforts to understand how systems can be analyzed, tested, and improved from a security perspective. 
 
 ---
 
